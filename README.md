@@ -50,7 +50,6 @@ A hybrid between classic dungeon adventures and modern roguelike gameplay — ea
 ---
 
 ## 🖥️ Screenshots & Preview
-*(Add your own screenshots here)*  
 You can embed them like this:
 
 ```md
