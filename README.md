@@ -47,13 +47,3 @@ A hybrid between classic dungeon adventures and modern roguelike gameplay — ea
 - Optimized for **Windows** (PC)
 - Assets: Mixamo animations, Quixel Megascans environment materials
 
----
-
-## 🖥️ Screenshots & Preview
-You can embed them like this:
-
-```md
-<p align="center">
-  <img src="assets/screenshot1.png" width="600"/>
-  <img src="assets/screenshot2.png" width="600"/>
-</p>
